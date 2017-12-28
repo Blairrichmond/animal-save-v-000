@@ -12,7 +12,7 @@ html {
 @media only screen and (min-width: 1190px){
 
  #bear {
-   position: static;
+   position: absolute;;
    right: 0;
  }
 
