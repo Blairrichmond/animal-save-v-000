@@ -13,6 +13,7 @@ html {
 
  #bear {
    position: fixed;
+   right: 0;
  }
 
 }
