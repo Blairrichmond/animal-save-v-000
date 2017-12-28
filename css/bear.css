@@ -9,4 +9,10 @@ html {
 }
 
 /* Write your solution here */
+@media only screen and (max-width: 1190px){
 
+ #bear {
+   margin-right: 800px;
+ }
+  
+}
